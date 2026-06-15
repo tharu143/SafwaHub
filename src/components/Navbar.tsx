@@ -34,6 +34,7 @@ export function Navbar() {
               height={40} 
               className="h-10 w-auto object-contain"
               priority
+              unoptimized
             />
             <span className="text-xl font-bold tracking-tight text-primary hidden sm:block">Safwa Learning <span className="text-secondary">Hub</span></span>
           </Link>

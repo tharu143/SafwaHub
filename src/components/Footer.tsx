@@ -16,6 +16,7 @@ export function Footer() {
                 width={40} 
                 height={40} 
                 className="h-10 w-auto object-contain"
+                unoptimized
               />
               <span className="text-xl font-bold tracking-tight text-primary">Safwa Learning <span className="text-secondary">Hub</span></span>
             </Link>
